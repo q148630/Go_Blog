@@ -1,0 +1,4 @@
+[INFO][article.go:75]2021/03/08 14:45:42 [state 狀態只允許0或1]
+[INFO][article.go:75]2021/03/08 14:45:42 [tag_id 標籤ID必須大於0]
+[INFO][article.go:75]2021/03/08 14:50:41 [state 狀態只允許0或1]
+[INFO][article.go:75]2021/03/08 14:50:41 [tag_id 標籤ID必須大於0]
