@@ -46,3 +46,7 @@
 ### 預覽 Restful API
 運行本專案後，前往下列網址查看
 http://127.0.0.1:8000/swagger/index.html
+
+JWT 驗證之使用者帳號: test
+
+JWT 驗證之使用者密碼: test123456
